@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "libBmpCs", "libBmpCs\libBmpCs.csproj", "{3C4561F6-0CCD-4040-98F1-72E90AE3ECC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "libBmpCsSample", "libBmpCsSample\libBmpCsSample.csproj", "{53046278-F1C8-414A-8EDB-FF038F83BCE0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C4561F6-0CCD-4040-98F1-72E90AE3ECC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C4561F6-0CCD-4040-98F1-72E90AE3ECC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C4561F6-0CCD-4040-98F1-72E90AE3ECC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C4561F6-0CCD-4040-98F1-72E90AE3ECC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53046278-F1C8-414A-8EDB-FF038F83BCE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53046278-F1C8-414A-8EDB-FF038F83BCE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53046278-F1C8-414A-8EDB-FF038F83BCE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53046278-F1C8-414A-8EDB-FF038F83BCE0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD3826BB-51CF-4CB0-BD4F-877F03F0AC39}
+	EndGlobalSection
+EndGlobal
